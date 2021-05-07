@@ -30,3 +30,23 @@ body {
   top: 30%;
   left: 60%;
 }
+.js-click
+{
+ 
+  padding: 9;
+  margin: 10;
+  width: 150px;
+  height: 50px;
+  background-color: blue;
+
+
+}
+.js-click :focus
+{
+ border: none;
+  padding: 9;
+  margin: 10;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(114, 114, 129);
+}
