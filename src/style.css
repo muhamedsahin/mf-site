@@ -4,5 +4,29 @@ p {
 }
 .meraba {
   color: red;
-   position: ;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  font-size: 150%;
+}
+.meraba .profil img {
+  border-radius: 90px;
+  position: fixed;
+  top: 35%;
+  left: 68%;
+
+  width: 300px;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.meraba .profil {
+  background-color: blue;
+  width: 450px;
+  height: 340px;
+  border-radius: 40% 60% 68% 32% / 30% 36% 64% 70%;
+  position: fixed;
+  top: 30%;
+  left: 60%;
 }
